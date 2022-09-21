@@ -1,4 +1,4 @@
-# Ft_printf: the Third pjoject in 42 cursus.
+#Ft_printf: the Third pjoject in 42 cursus.
 
 ## Table of contents
 

@@ -2,7 +2,7 @@
 
 ## Table of contents
 
-- [Ft_printf-printf](#42-cursus)
+- [Ft_printf](#42-cursus)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
   - [The project](#the-project)
